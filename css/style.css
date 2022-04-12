@@ -1,0 +1,31 @@
+.vermelho {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+#alvo {
+    border: 2px solid black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#quadradp {
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#area {
+    border: 2px solid black;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
