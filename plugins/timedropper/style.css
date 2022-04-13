@@ -1,0 +1,12 @@
+:root {
+    --td-textColor: #555555;
+    --td-backgroundColor: #FFF;
+    --td-primaryColor: #6E99FF;
+    --td-displayBackgroundColor: #FFF;
+    --td-displayBorderColor: #6E99FF50;
+    --td-displayBorderStyle: solid;
+    --td-displayBorderWidth: 4px;
+    --td-handsColor: #6E99FF50;
+    --td-handleColor: #6E99FF;
+    --td-handlePointColor: white;
+  }
