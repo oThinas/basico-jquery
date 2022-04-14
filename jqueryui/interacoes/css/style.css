@@ -1,0 +1,23 @@
+#quadrado {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    background-color: #ddd;
+}
+
+#melhores-filmes li {
+    width: 200px;
+    height: 20px;
+    border: 2px solid #555;
+    background-color: #888;
+    color: #fff;
+    border-radius: 3px;
+    list-style-type: none;
+    padding: 5px;
+    margin: 2px;
+}
+
+#melhores-filmes li.placeholder {
+    border: 2px none;
+    background-color: #ddd;
+}
