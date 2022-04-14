@@ -1,0 +1,22 @@
+#efeito {
+    width: 200px;
+    height: 110px;
+    padding: 0.4em;
+    position: relative;
+}
+
+#efeito h3 {
+    margin: 0;
+    padding: 0.4em;
+    text-align: center;
+}
+
+.toggler {
+    width: 500px;
+    height: 150px;
+    position: relative;
+}
+
+.ui-effects-transfer {
+    border: 2px dotted gray;
+}
